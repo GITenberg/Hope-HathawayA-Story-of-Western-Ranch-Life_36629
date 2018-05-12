@@ -1,0 +1,26 @@
+_repo: Hope-HathawayA-Story-of-Western-Ranch-Life_36629
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parker, Frances
+    gutenberg_agent_id: '38383'
+    url: http://www.gutenberg.org/2009/agents/38383
+description: ''
+gutenberg_issued: '2011-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36629'
+  lccn: 04031319
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'Hope Hathaway: A Story of Western Ranch Life'
+url: http://www.gutenberg.org/ebooks/36629
